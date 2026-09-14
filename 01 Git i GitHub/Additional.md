@@ -8,7 +8,7 @@
 - https://codeberg.org
 - https://azure.microsoft.com/en-us/products/devops
 - https://about.gitea.com
-- https://about.gitlab.
+- https://about.gitlab.com
 - https://bitbucket.org/product/
 
 

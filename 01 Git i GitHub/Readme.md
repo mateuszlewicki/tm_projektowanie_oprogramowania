@@ -26,6 +26,10 @@
 #### Visual Studio Code i git
 - https://code.visualstudio.com/docs/sourcecontrol/repos-remotes
 
+#### Warto znać!
+- https://www.conventionalcommits.org/en/v1.0.0/
+- https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
+
 
 ## Kontrola wersji,
 nazywana również kontrolą źródła, to praktyka polegająca na śledzeniu zmian w kodzie oprogramowania i zarządzaniu tymi zmianami. Systemy kontroli wersji to narzędzia programowe, które pomagają zespołom tworzącym oprogramowanie zarządzać zmianami w kodzie źródłowym na przestrzeni czasu
