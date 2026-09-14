@@ -23,6 +23,9 @@
 - https://git-scm.com/book/pl/v2/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji
 - https://www.atlassian.com/pl/git/tutorials/what-is-version-control
 
+#### Visual Studio Code i git
+- https://code.visualstudio.com/docs/sourcecontrol/repos-remotes
+
 
 ## Kontrola wersji,
 nazywana również kontrolą źródła, to praktyka polegająca na śledzeniu zmian w kodzie oprogramowania i zarządzaniu tymi zmianami. Systemy kontroli wersji to narzędzia programowe, które pomagają zespołom tworzącym oprogramowanie zarządzać zmianami w kodzie źródłowym na przestrzeni czasu
