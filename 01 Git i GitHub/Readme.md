@@ -22,6 +22,8 @@
 #### Kontrola wersji
 - https://git-scm.com/book/pl/v2/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji
 - https://www.atlassian.com/pl/git/tutorials/what-is-version-control
+- https://github.com/resources/articles/what-are-code-repositories
+- https://github.com/resources/articles/what-is-version-control
 
 #### Visual Studio Code i git
 - https://code.visualstudio.com/docs/sourcecontrol/repos-remotes
